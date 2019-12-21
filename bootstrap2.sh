@@ -10,4 +10,4 @@ unzip a.zip
 sudo ./awscli-bundle/install -i /usr/local/aws -b /usr/local/bin/aws
 sudo su
 mv /var/www/html/index.html /var/www/html/index.html.original
-echo "<html></h2>Welcome to eduEnigma</h2></html>" > /var/www/html/index.html
+echo "<html></h2>Welcome to </h2></html>" > /var/www/html/index.html
